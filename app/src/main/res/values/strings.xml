@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UmbPrueba</string>
+    <string name="Menu">Button</string>
+    <string name="title_activity_menu_prueba">MenuPrueba</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="opcion1">Opcion1</string>
+    <string name="ing_software">Ing. Software</string>
+    <string name="programacion_en_plataformas_moviles_2">Programacion en plataformas moviles 2</string>
+    <string name="jose_leonardo_pinzon_zambrano">Jose Leonardo Pinzon Zambrano</string>
+    <string name="_2020">2020</string>
+    <string name="jhon_mendez">Jhon Mendez</string>
+    <string name="logo">Logo</string>
+    <string name="buscar">Buscar</string>
+    <string name="pagina">Pagina</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="pagina_institucional">Pagina Institucional</string>
+    <string name="buscar_paginas">Buscar Paginas</string>
+    <string name="mensajes">Mensajes</string>
+    <string name="menu">Menu</string>
+    <string name="anterior">Anterior</string>
+    <string name="volver">Volver</string>
+    <string name="fecha">Fecha:</string>
+    <string name="asunto">Asunto</string>
+    <string name="actividad">Actividad</string>
+    <string name="registrar">Registrar</string>
+
+</resources>
